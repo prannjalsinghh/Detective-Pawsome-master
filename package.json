@@ -1,0 +1,15 @@
+{
+  "name": "detectivepawsome",
+  "version": "1.0.0",
+  "description": "Captain of Catastrophe is at it again and this time with nasty ransomware! Unlock your computer and re-gain access to your files!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Instafluff",
+  "license": "MIT",
+  "dependencies": {
+    "webwebweb": "^1.4.0"
+  }
+}
